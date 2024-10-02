@@ -4,7 +4,7 @@ public:
         vector<int> temp;
         temp = arr;
         sort(temp.begin(), temp.end());
-        map<int, int> rank;
+        unordered_map<int, int> rank;
         int R = 1;
         for (auto ele : temp) {
             if (rank[ele] == 0) {
