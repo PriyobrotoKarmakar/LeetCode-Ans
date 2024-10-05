@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0432-all-oone-data-structure](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2755-extra-characters-in-a-string) |
@@ -170,5 +172,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
