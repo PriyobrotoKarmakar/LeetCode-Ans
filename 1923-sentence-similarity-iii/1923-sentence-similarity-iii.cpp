@@ -1,24 +1,24 @@
 class Solution {
 public:
     bool areSentencesSimilar(string s1, string s2) {
-
         //swap if need
-        if(s1.length()<s2.length()){
-            swap(s1,s2);
-        }
+        if(s1.length()<s2.length())
+        swap(s1,s2);
 
+        //deque
         deque<string> d1,d2;
 
-        stringstream S(s1);
-        string words;
-        while(S>>words){
-            d1.push_back(words);
+        stringstream S1(s1);
+        string word1;
+        while(S1>>word1){
+            d1.push_back(word1);
         }
-        stringstream SS(s2);
-        string words2;
-        while(SS>>words2){
-            d2.push_back(words2);
+        stringstream S2(s2);
+        string word2;
+        while(S2>>word2){
+            d2.push_back(word2);
         }
+
         //prefix
         while(!d1.empty() && !d2.empty() && d1.front()==d2.front()){
             d1.pop_front();
@@ -31,6 +31,5 @@ public:
         }
 
         return d2.empty();
-
     }
 };
