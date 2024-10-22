@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0386-lexicographical-numbers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0144-binary-tree-preorder-traversal) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0144-binary-tree-preorder-traversal) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0145-binary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
