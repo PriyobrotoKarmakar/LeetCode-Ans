@@ -2,7 +2,7 @@ class Solution {
 public:
     int longestSquareStreak(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        map<float,int>streak;
+        unordered_map<float,int>streak;
         for(int i=0;i<nums.size();i++){
             if(streak[sqrt(nums[i])]!=0){
                 streak[nums[i]] = streak[sqrt(nums[i])]+1;
@@ -15,7 +15,7 @@ public:
             maxi = max(maxi,pair.second);
         }
         if(maxi==1)return -1;
-        
+
         return maxi;
     }
 };
