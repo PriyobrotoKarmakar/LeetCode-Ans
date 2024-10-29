@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -315,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
