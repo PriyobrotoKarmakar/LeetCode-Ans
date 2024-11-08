@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
