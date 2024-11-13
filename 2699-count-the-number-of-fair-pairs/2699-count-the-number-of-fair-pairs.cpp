@@ -10,8 +10,8 @@ public:
             long int idy =
                 upper_bound(nums.begin() + i + 1, nums.end(), upper - nums[i]) -
                 nums.begin();
-            long int x = idx - i - 1;
-            long int y = idy - i -1;
+            long int x = idx;
+            long int y = idy;
             ans += (y - x);
         }
         return ans;
