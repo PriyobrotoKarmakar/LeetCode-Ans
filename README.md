@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1256-rank-transform-of-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1304-longest-happy-string) |
+| [1325-path-with-maximum-probability](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -379,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2716-prime-subtraction-operation) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
