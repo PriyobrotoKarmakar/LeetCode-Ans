@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2716-prime-subtraction-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3291-find-if-array-can-be-sorted) |
