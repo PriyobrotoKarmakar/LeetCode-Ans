@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0241-different-ways-to-add-parentheses) |
+| [0412-fizz-buzz](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0812-rotate-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0241-different-ways-to-add-parentheses) |
+| [0412-fizz-buzz](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0412-fizz-buzz) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
