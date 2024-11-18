@@ -4,13 +4,29 @@ public:
         vector<int>ans;
         ans = arr;
         int n = arr.size();
-        for(int i=0;i<n;i++){
-            int sum = 0;
-            for(int j=1;j<=k;j++){
-                sum+=arr[(i+j)%n];
-            }
-            ans[i] = sum;
+        int i=1;
+        int j=1;
+        int sum = 0;
+        for(int m=0;m<k;m++){
+            sum+=arr[j];
+            j = (j+1)%n;
         }
+        ans[0] = sum; 
+        for(int m=1;m<n;m++){
+            sum-=arr[i];
+            i = (i+1)%n;
+            sum+=arr[j];
+            j = (j+1)%n;
+            ans[m] = sum;
+        }
+        // for(int i=0;i<n;i++){
+        //     int sum = 0;
+        //     for(int j=1;j<=k;j++){
+        //         sum+=arr[(i+j)%n];
+        //     }
+        //     ans[i] = sum;
+        // }
+
         arr = ans;
     }
     void sumOfPrev(vector<int>& arr, int k){
