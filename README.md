@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1325-path-with-maximum-probability) |
+| [3189-find-champion-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3189-find-champion-ii) |
 ## Shortest Path
 |  |
 | ------- |
