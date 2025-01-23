@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1972-rotating-the-box) |
@@ -615,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
+| [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
 ## Eulerian Circuit
 |  |
 | ------- |
