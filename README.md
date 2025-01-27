@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2465-shifting-letters-ii) |
