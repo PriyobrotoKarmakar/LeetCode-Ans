@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
