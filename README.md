@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3227-find-missing-and-repeated-values) |
 ## Quickselect
 |  |
 | ------- |
