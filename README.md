@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3643-zero-array-transformation-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
 | ------- |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |
 | ------- |
