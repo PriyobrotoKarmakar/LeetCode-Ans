@@ -12,26 +12,26 @@
 class Solution {
 public:
     bool solve(TreeNode* root){
-        if(!root)return NULL;
         queue<TreeNode*> q;
-        bool checkNULL = false;
         q.push(root);
+        bool nullFlag = false;
         while(!q.empty()){
             TreeNode* front = q.front();
             q.pop();
-            if(front==NULL){
-                checkNULL = true;
+            if(front == NULL){
+                nullFlag = true;
             }else{
-                if(checkNULL)return false;
-
-                q.push(front->left);
-                q.push(front->right);
-            } 
+                if(nullFlag==true){
+                    return false;
+                }else{
+                    q.push(front->left);
+                    q.push(front->right);
+                }
+            }
         }
         return true;
     }
     bool isCompleteTree(TreeNode* root) {
-        bool ans = solve(root);
-        return ans;
+        return solve(root);
     }
 };
