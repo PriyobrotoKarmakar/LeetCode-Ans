@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2434-design-a-number-container-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -771,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Data Stream
 |  |
