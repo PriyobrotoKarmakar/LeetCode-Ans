@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Trie
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search Tree
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
+| [2793-count-the-number-of-complete-components](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Eulerian Circuit
 |  |
