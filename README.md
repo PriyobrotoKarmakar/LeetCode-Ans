@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1972-rotating-the-box) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2107-find-unique-binary-string) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2586-longest-square-streak-in-an-array) |
