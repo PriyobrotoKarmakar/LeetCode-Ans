@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0905-length-of-longest-fibonacci-subsequence) |
