@@ -13,10 +13,10 @@ public:
         if (markIndex != -1) {
 
             for (int i = n - 1; i > markIndex; i--) {
-                if (nums[i] > nums[markIndex]){
+                if (nums[i] > nums[markIndex]) {
                     swap(nums[markIndex], nums[i]);
                     break;
-                    }
+                }
             }
         }
         reverse(nums.begin() + markIndex + 1, nums.end());
