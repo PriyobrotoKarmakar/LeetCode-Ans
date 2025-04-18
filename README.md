@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0088-merge-sorted-array) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
