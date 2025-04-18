@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0053-maximum-subarray) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0052-n-queens-ii) |
 | [0473-matchsticks-to-square](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0473-matchsticks-to-square) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
