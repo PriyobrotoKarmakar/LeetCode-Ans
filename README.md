@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2232-adding-spaces-to-a-string) |
+| [2249-count-the-hidden-sequences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2262-solving-questions-with-brainpower) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
