@@ -5,7 +5,9 @@ public:
         int j = 2;
         int count = 0;
         while(j<nums.size()){
-            if((double)(nums[i]+nums[j])==(double)nums[(i+j)/2]/2)
+            double firstAndThird = nums[i]+nums[j];
+            double middileHalf = (double)nums[(i+j)/2]/2;
+            if(firstAndThird == middileHalf)
                 count++;
 
             i++;
