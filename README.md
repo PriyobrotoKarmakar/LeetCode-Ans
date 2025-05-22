@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3195-separate-black-and-white-balls) |
+| [3647-zero-array-transformation-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -777,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
 | ------- |
