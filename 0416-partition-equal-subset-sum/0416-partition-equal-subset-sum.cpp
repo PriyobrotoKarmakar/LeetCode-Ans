@@ -1,25 +1,38 @@
 class Solution {
 public:
-    int dp[200][20001];
-    bool solve(vector<int>& nums,int i,long sum,long halfSum){
-        if(halfSum==sum)return true;
-        if(i>=nums.size())return false;
-        if(dp[i][sum]!=-1)return dp[i][sum];
-        bool take = solve(nums,i+1,sum+nums[i],halfSum);
-        bool nonTake = solve(nums,i+1,sum,halfSum);
+    int half;
+    bool solve(vector<int>&nums,int i,int target){
+        if(target==half)return true;
+        if(target>half || i>=nums.size()){
+            return false;
+        }
 
-        return dp[i][sum] = (take || nonTake);
+        bool inc = solve(nums,i+1,target+nums[i]);
+        bool exc = solve(nums,i+1,target);
+
+        return inc | exc;
+        
+    }
+    bool solveMem(vector<int>&nums,int i,int target,vector<vector<int>>&dp){
+        if(target==half)return true;
+        if(target>half || i>=nums.size()){
+            return false;
+        }
+        if(dp[i][target]!=-1)return dp[i][target];
+
+
+        bool inc = solveMem(nums,i+1,target+nums[i],dp);
+        bool exc = solveMem(nums,i+1,target,dp);
+
+        return dp[i][target] = (inc | exc);
+        
     }
     bool canPartition(vector<int>& nums) {
-        long sum = 0;
-        for(auto ele: nums){
-            sum+=ele;
-        }
-        memset(dp,-1,sizeof(dp));
+        int sum = accumulate(nums.begin(),nums.end(),0);
         if((sum&1)==1)return false;
-
-        if(solve(nums,0,0,sum/2))return true;
-
-        return false;
+        vector<vector<int>>dp(nums.size(),vector<int>(sum,-1));
+        half = sum>>1;
+        // return solve(nums,0,0);
+        return solveMem(nums,0,0,dp);
     }
 };
