@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0432-all-oone-data-structure](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0263-ugly-number) |
 | [0365-water-and-jug-problem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0365-water-and-jug-problem) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
