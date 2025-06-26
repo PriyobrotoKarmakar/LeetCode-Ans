@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0300-longest-increasing-subsequence) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0295-find-median-from-data-stream) |
