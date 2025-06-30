@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0646-maximum-length-of-pair-chain) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
