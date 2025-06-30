@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0432-all-oone-data-structure) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
