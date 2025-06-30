@@ -1,17 +1,24 @@
 class MinStack {
 public:
     vector<int>arr;
+    vector<int>mini;
     MinStack() {
         
     }
     
     void push(int val) {
         arr.push_back(val);
+        if(!mini.empty()){
+            mini.push_back(min(mini.back(),arr.back()));
+        }else{
+            mini.push_back(val);
+        }
     }
     
     void pop() {
         if(!arr.empty()){
             arr.pop_back();
+            mini.pop_back();
         }
     }
     
@@ -20,7 +27,7 @@ public:
     }
     
     int getMin() {
-        return *min_element(arr.begin(),arr.end());
+        return mini.back();
     }
 };
 
