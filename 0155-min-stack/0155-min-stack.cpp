@@ -1,49 +1,45 @@
+#include <stack>
+#include <cassert>
+#include <algorithm>
+#include <iostream>
+
 class MinStack {
+private:
+    std::stack<int> arr;
+    std::stack<int> mini;
+
 public:
-    vector<int>arr;
-    vector<int>mini;
-    MinStack() {
-        
-    }
-    
+    MinStack() = default;
+
     void push(int val) {
-        arr.push_back(val);
-        if(!mini.empty()){
-            mini.push_back(min(mini.back(),arr.back()));
-        }else{
-            mini.push_back(val);
+        arr.push(val);
+        if (mini.empty()) {
+            mini.push(val);
+        } else {
+            mini.push(std::min(val, mini.top()));
         }
     }
-    
+
     void pop() {
-        if(!arr.empty()){
-            arr.pop_back();
-            mini.pop_back();
-        }
+        assert(!arr.empty());
+        arr.pop();
+        mini.pop();
     }
-    
-    int top() {
-        return arr.back();
+
+    [[nodiscard]] int top() const {
+        assert(!arr.empty());
+        return arr.top();
     }
-    
-    int getMin() {
-        return mini.back();
+
+    [[nodiscard]] int getMin() const {
+        assert(!mini.empty());
+        return mini.top();
     }
 };
 
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(val);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
-
- auto init = []()
-{
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
+auto init = []() {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    return 0;
 }();
