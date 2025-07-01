@@ -9,15 +9,13 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        map<ListNode*,bool> visited;
-        while(headA!=NULL){
-            visited[headA] = true;
-            headA = headA->next;
+        if(headA==NULL or headB==NULL)return NULL;
+        ListNode* pa = headA;
+        ListNode* pb = headB;
+        while(pa!=pb){
+            pa = (pa==NULL)?headB:pa->next;
+            pb = (pb==NULL)?headA:pb->next;
         }
-        while(headB!=NULL){
-            if(visited[headB]==true)return headB;
-            headB = headB->next;
-        }
-        return NULL;
+        return pa;
     }
 };
