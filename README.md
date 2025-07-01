@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0932-monotonic-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0932-monotonic-array) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -742,11 +744,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0023-merge-k-sorted-lists) |
 | [0432-all-oone-data-structure](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2868-continuous-subarrays) |
