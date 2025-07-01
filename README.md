@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0432-all-oone-data-structure) |
