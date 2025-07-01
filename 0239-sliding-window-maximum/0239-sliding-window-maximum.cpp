@@ -1,24 +1,32 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        int j = 0;
-        int n = nums.size();
+        deque<int> q;
         vector<int> ans;
-        multiset<int> ms;
-        
-        for (int i = 0; i < n; i++) {
-            ms.insert(nums[i]);
-            
-            if (i - j + 1 == k) {
-                // Get maximum element
-                ans.push_back(*ms.rbegin());
-                
-                // Remove the element going out of the window
-                ms.erase(ms.find(nums[j]));
-                j++;
+        //first window
+        for(int i=0;i<k;i++){
+            while(!q.empty() and nums[q.back()]<nums[i]){
+                q.pop_back();
             }
+            q.push_back(i);
         }
         
+        ans.push_back(nums[q.front()]);
+        
+        for(int i=k;i<nums.size();i++){
+         
+            if(!q.empty() and q.front()==i-k){
+                q.pop_front();
+            }
+           
+            while(!q.empty() and nums[q.back()]<nums[i]){
+                q.pop_back();
+            }
+            
+            q.push_back(i);
+          
+            ans.push_back(nums[q.front()]);
+        }
         return ans;
     }
 };
