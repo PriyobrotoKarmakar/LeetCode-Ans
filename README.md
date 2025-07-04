@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2280-count-good-triplets-in-an-array) |
 ## Recursion
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0473-matchsticks-to-square) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
