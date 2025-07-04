@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2050-count-good-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Enumeration
 |  |
 | ------- |
