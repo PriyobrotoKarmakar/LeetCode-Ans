@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1364-tuple-with-same-product](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
