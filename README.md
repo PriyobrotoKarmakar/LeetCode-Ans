@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0797-rabbits-in-forest) |
+| [0831-largest-sum-of-averages](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0831-largest-sum-of-averages) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0806-domino-and-tromino-tiling) |
+| [0831-largest-sum-of-averages](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0731-my-calendar-ii) |
+| [0831-largest-sum-of-averages](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0831-largest-sum-of-averages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1435-xor-queries-of-a-subarray) |
