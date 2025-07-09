@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0806-domino-and-tromino-tiling) |
 | [0831-largest-sum-of-averages](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0831-largest-sum-of-averages) |
