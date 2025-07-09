@@ -20,20 +20,20 @@ public:
     
     int solveUsingTabSpaceOptimisation(string& text1, string& text2) {
         int z = max(m,n);
-        vector<int>prev(z+1,0);
         vector<int>curr(z+1,0);
+        vector<int>next(z+1,0);
         for (int i = m - 1; i >= 0; i--) {
             for (int j = n - 1; j >= 0; j--) {
                 if (text1[i] == text2[j]) {
-                    prev[j] = 1 + curr[j + 1];
+                    curr[j] = 1 + next[j + 1];
                 } else {
-                    prev[j] = max(curr[j], prev[j + 1]);
+                    curr[j] = max(next[j], curr[j + 1]);
                 }
             }
-            curr = prev;
+            next = curr;
         }
 
-        return prev[0];
+        return curr[0];
     }
     
     int solveUsingRec(string& text1, string& text2, int i, int j) {
