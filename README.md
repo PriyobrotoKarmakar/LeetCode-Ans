@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2262-solving-questions-with-brainpower) |
