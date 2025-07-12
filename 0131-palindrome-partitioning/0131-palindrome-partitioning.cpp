@@ -3,35 +3,38 @@ using namespace std;
 
 class Solution {
 public:
-    vector<vector<string>> ans;
-
-    bool isPalindrome(string &s, int start, int end) {
-        while (start < end) {
-            if (s[start] != s[end]) return false;
-            start++;
-            end--;
+    bool chpalin(string s) {
+        int i = 0, j = s.length() - 1;
+        while (i < j) {
+            if (s[i] != s[j]) {
+                return false;
+            }
+            i++;
+            j--;
         }
         return true;
     }
 
-    void solve(string &s, int idx, vector<string> &temp) {
-        if (idx == s.length()) {
-            ans.push_back(temp);
+    void solve(vector<vector<string>>& res, vector<string>& temp, string s) {
+        if (s.size() == 0) {
+            res.push_back(temp);
             return;
         }
 
-        for (int i = idx; i < s.length(); i++) {
-            if (isPalindrome(s, idx, i)) {
-                temp.push_back(s.substr(idx, i - idx + 1));
-                solve(s, i + 1, temp);
+        for (int i = 0; i < s.size(); i++) {
+            string part = s.substr(0, i + 1);
+            if (chpalin(part)) {
+                temp.push_back(part);
+                solve(res, temp, s.substr(i + 1));
                 temp.pop_back();
             }
         }
     }
 
     vector<vector<string>> partition(string s) {
+        vector<vector<string>> res;
         vector<string> temp;
-        solve(s, 0, temp);
-        return ans;
+        solve(res, temp, s);
+        return res;
     }
 };
