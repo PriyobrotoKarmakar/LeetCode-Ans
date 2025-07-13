@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1364-tuple-with-same-product) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1256-rank-transform-of-an-array) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
