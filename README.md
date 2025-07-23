@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0241-different-ways-to-add-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0318-maximum-product-of-word-lengths) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1119,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
