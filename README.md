@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2280-count-good-triplets-in-an-array) |
 ## Recursion
 |  |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1008-binary-tree-cameras) |
+| [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1008-binary-tree-cameras) |
+| [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1008-binary-tree-cameras) |
+| [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1132,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0450-delete-node-in-a-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
