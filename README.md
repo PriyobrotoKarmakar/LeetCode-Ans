@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
