@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1095,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2792-neighboring-bitwise-xor) |
