@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0735-asteroid-collision) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0670-maximum-swap) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0806-domino-and-tromino-tiling) |
 | [0831-largest-sum-of-averages](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0831-largest-sum-of-averages) |
