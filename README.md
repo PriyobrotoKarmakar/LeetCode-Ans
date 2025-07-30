@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0386-lexicographical-numbers) |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
@@ -1198,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
 | [1325-path-with-maximum-probability](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1256,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0207-course-schedule) |
 | [1558-course-schedule-iv](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
