@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0390-elimination-game) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
