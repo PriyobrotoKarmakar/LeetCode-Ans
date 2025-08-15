@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0390-elimination-game) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
@@ -1126,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0473-matchsticks-to-square) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
