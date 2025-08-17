@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0831-largest-sum-of-averages) |
+| [0867-new-21-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0940-fruit-into-baskets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -1356,4 +1359,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
