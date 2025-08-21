@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
+| [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Heap (Priority Queue)
@@ -1234,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2145-grid-game) |
