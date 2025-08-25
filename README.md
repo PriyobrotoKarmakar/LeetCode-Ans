@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0594-longest-harmonious-subsequence) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1237,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1036-rotting-oranges) |
