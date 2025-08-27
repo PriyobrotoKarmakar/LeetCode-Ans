@@ -2,6 +2,7 @@ class Solution {
 public:
     int n, m;
     int dir[4][2] = {{1, 1}, {1, -1}, {-1, -1}, {-1, 1}};
+    int dp[501][501][4][2];
     int solve(int i, int j, int d, bool canTurn, int val,
               vector<vector<int>>& grid) {
         int delI = i + dir[d][0];
@@ -12,6 +13,8 @@ public:
             grid[delI][delJ] != val) {
             return 0;
         }
+        int &dpAns = dp[delI][delJ][d][canTurn];
+        if(dpAns!=-1)return dpAns;
         int result = 0;
         int newVal = val == 2 ? 0 : 2;
         // include
@@ -24,11 +27,12 @@ public:
             result = max(result, exclude);
         }
 
-        return result;
+        return dpAns = result;
     }
     int lenOfVDiagonal(vector<vector<int>>& grid) {
         n = grid.size();
         m = grid[0].size();
+        memset(dp,-1,sizeof(dp));
         int ans = 0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
