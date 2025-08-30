@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0073-set-matrix-zeroes) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0051-n-queens) |
@@ -1241,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
