@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0075-sort-colors) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0735-asteroid-collision) |
@@ -1245,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
