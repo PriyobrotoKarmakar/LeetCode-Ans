@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0209-minimum-size-subarray-sum) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0295-find-median-from-data-stream) |
