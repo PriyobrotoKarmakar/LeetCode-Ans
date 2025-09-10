@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0189-rotate-array) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0268-missing-number) |
