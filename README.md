@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0778-reorganize-string) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0416-partition-equal-subset-sum) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2280-count-good-triplets-in-an-array) |
 ## Recursion
@@ -1141,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1324,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -1405,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
