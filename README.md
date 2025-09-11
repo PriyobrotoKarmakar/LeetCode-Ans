@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0268-missing-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0778-reorganize-string) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0198-house-robber) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0268-missing-number) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
