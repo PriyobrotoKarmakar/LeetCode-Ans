@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
+    int solveUsingMap(vector<int>& nums) {
         unordered_map<int, bool> visited;
         int i = 0;
         int size = nums.size();
@@ -15,5 +15,20 @@ public:
         }
 
         return nums.size();
+    }
+
+    int LinearSearch(vector<int>& nums){
+        vector<int> arr;
+        arr.push_back(nums[0]);
+        for(int i =1;i<nums.size();i++){
+            if(nums[i]!=nums[i-1]){
+                arr.push_back(nums[i]);
+            }
+        }
+        nums = arr;
+        return nums.size();
+    }
+    int removeDuplicates(vector<int>& nums) {
+        return LinearSearch(nums);
     }
 };
