@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2689-rearranging-fruits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3241-divide-array-into-arrays-with-max-difference) |
