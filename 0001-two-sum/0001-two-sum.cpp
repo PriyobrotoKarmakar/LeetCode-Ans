@@ -8,16 +8,16 @@ public:
         }
 
         sort(num.begin(),num.end());
-        for(auto ele: num){
-            cout<<ele.first<<" "<<ele.second<<endl;
-        }
+        // for(auto ele: num){
+        //     cout<<ele.first<<" "<<ele.second<<endl;
+        // }
 
         int i = 0;
         int j = num.size()-1;
         while(i<=j){
             int val1 = num[i].first;
             int val2 = num[j].first;
-            cout<<val1<<"->"<<val2<<endl;
+            // cout<<val1<<"->"<<val2<<endl;
             if((val1+val2) == target){
                 
                 return {num[i].second,num[j].second};
