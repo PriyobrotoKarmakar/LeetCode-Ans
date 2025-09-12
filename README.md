@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1445,10 +1447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0486-predict-the-winner) |
+| [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
