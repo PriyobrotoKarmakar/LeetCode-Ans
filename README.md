@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1364-tuple-with-same-product) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1170-shortest-common-supersequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1197-parsing-a-boolean-expression) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0940-fruit-into-baskets) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
