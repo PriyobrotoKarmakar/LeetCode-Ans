@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2050-count-good-numbers) |
+| [2083-three-divisors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2083-three-divisors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1265,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2083-three-divisors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2083-three-divisors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1358,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2083-three-divisors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2716-prime-subtraction-operation) |
