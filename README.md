@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1656-count-good-triplets) |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0735-asteroid-collision) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2048-build-array-from-permutation) |
@@ -1483,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
