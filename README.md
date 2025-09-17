@@ -1495,4 +1495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
