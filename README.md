@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3827-implement-router) |
 ## Design
 |  |
 | ------- |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -981,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1040,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
