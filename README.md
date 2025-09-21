@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2023-design-movie-rental-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2023-design-movie-rental-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2023-design-movie-rental-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3797-design-spreadsheet) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0731-my-calendar-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2023-design-movie-rental-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2434-design-a-number-container-system) |
@@ -1207,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1917-maximum-average-pass-ratio](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
