@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0131-palindrome-partitioning) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
@@ -1171,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0735-asteroid-collision) |
@@ -1267,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0191-number-of-1-bits) |
