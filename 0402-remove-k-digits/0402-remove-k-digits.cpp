@@ -1,29 +1,36 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        int n = num.length();
-        char stack[n];
-        int digit = n-k;
-        int top = 0;
-        for(int i=0;i<n;i++){
-            while(top>0 && stack[top-1]>num[i] && k>0){
-                top--;
+        stack<char> st;
+
+        for (char c : num) {
+            while (!st.empty() && k > 0 && st.top() > c) {
+                st.pop();
                 k--;
             }
-            stack[top++] = num[i];
+            st.push(c);
         }
-        int posOfStack;
-        for(posOfStack=0;posOfStack<digit;posOfStack++ ){
 
-            if(stack[posOfStack]!='0') break;
+        while (k > 0 && !st.empty()) {
+            st.pop();
+            k--;
         }
-        if(posOfStack==digit) return "0";
-        string ans = "";
-        for(int i=posOfStack;i<digit;i++){
-            ans+=stack[i];
 
+        string result;
+        while (!st.empty()) {
+            result.push_back(st.top());
+            st.pop();
         }
-        return ans;
-        
+        reverse(result.begin(), result.end());
+
+        int pos = 0;
+        while (pos < result.size() && result[pos] == '0') pos++;
+        result = result.substr(pos);
+
+     
+        return result.empty() ? "0" : result;
     }
 };
