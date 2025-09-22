@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1813-maximum-erasure-value](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1829-maximum-units-on-a-truck](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1488-sort-integers-by-the-power-value) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1829-maximum-units-on-a-truck](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1448-maximum-69-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1829-maximum-units-on-a-truck](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2089-maximum-matrix-sum) |
