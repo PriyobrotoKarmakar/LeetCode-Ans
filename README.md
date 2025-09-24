@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0386-lexicographical-numbers) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1008-binary-tree-cameras) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1008-binary-tree-cameras) |
@@ -1341,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
@@ -1368,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Matrix
