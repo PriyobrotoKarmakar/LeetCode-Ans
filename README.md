@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0264-ugly-number-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0214-shortest-palindrome) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0231-power-of-two) |
