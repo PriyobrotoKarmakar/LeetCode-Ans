@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1694-make-sum-divisible-by-p) |
+| [1706-min-cost-to-connect-all-points](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1706-min-cost-to-connect-all-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1440,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1558-course-schedule-iv) |
+| [1706-min-cost-to-connect-all-points](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1706-min-cost-to-connect-all-points) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
+| [1706-min-cost-to-connect-all-points](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1706-min-cost-to-connect-all-points) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1558,4 +1561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1908-recyclable-and-low-fat-products) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
