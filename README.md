@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0940-fruit-into-baskets) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [0900-reordered-power-of-2](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1256-rank-transform-of-an-array) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1448-maximum-69-number) |
