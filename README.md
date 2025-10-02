@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3790-fruits-into-baskets-ii) |
