@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
@@ -1524,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2716-prime-subtraction-operation) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Graph
 |  |
 | ------- |
@@ -1620,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
 | ------- |
