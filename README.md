@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-new-21-game) |
+| [0897-prime-palindrome](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-largest-perimeter-triangle) |
@@ -1550,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0897-prime-palindrome](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0897-prime-palindrome) |
 | [2083-three-divisors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2083-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2415-count-the-number-of-ideal-arrays) |
