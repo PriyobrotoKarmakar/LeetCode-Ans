@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0860-design-circular-queue) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
 | ------- |
