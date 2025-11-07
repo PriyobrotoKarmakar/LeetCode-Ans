@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3827-implement-router) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3863-power-grid-maintenance](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -1459,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Enumeration
 |  |
 | ------- |
@@ -1478,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Breadth-First Search
 |  |
 | ------- |
