@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0417-pacific-atlantic-water-flow) |
 | [0473-matchsticks-to-square](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0494-target-sum) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0516-longest-palindromic-subsequence) |
