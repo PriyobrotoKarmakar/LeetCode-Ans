@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3451-string-compression-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1463,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1500,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3394-minimum-array-end) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3676-smallest-number-with-all-set-bits) |
