@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0151-reverse-words-in-a-string) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0101-symmetric-tree) |
@@ -1440,6 +1443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
@@ -1574,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
