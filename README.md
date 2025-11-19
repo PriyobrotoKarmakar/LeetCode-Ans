@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2448-count-number-of-bad-pairs) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2280-count-good-triplets-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1375,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2408-number-of-people-aware-of-a-secret) |
