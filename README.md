@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1096,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0731-my-calendar-ii) |
