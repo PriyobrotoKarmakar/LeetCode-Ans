@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
