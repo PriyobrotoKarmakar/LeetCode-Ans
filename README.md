@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
