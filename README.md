@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1006-vowel-spellchecker) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1170-shortest-common-supersequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1170-shortest-common-supersequence) |
@@ -1306,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
