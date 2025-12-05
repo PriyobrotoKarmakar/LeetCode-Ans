@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1019-next-greater-node-in-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1019-next-greater-node-in-linked-list) |
 | [1025-minimum-cost-for-tickets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -1265,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0860-design-circular-queue) |
+| [1019-next-greater-node-in-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1019-next-greater-node-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
@@ -1307,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1453,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1019-next-greater-node-in-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
