@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3765-complete-prime-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3830-find-closest-person) |
 ## Sorting
@@ -1604,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3765-complete-prime-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3765-complete-prime-number) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Breadth-First Search
 |  |
@@ -1716,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3373-maximum-prime-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3373-maximum-prime-difference) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3765-complete-prime-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Graph
 |  |
