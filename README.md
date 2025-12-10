@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -1817,6 +1819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2605-count-anagrams) |
 | [3201-distribute-candies-among-children-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1841,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Probability and Statistics
 |  |
 | ------- |
