@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0860-design-circular-queue) |
+| [0867-transpose-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-transpose-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0932-monotonic-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0932-monotonic-array) |
@@ -1431,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-transpose-matrix) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1674,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1396-count-servers-that-communicate) |
