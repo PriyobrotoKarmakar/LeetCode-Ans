@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0831-largest-sum-of-averages) |
 | [0837-most-common-word](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0837-most-common-word) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
@@ -1134,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
