@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
