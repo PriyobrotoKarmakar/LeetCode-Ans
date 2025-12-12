@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3429-special-array-i) |
+| [3433-count-mentions-per-user](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3373-maximum-prime-difference) |
+| [3433-count-mentions-per-user](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3321-type-of-triangle) |
+| [3433-count-mentions-per-user](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1461,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3447-clear-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3616-make-array-elements-equal-to-zero) |
