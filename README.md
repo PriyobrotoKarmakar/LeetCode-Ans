@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0067-add-binary) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0070-climbing-stairs) |
@@ -1545,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0052-n-queens-ii) |
