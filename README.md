@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0860-design-circular-queue) |
 | [0867-transpose-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0875-koko-eating-bananas) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0932-monotonic-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0932-monotonic-array) |
@@ -1157,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0875-koko-eating-bananas) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1335-maximum-candies-allocated-to-k-children) |
