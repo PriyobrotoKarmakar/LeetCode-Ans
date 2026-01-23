@@ -1028,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
@@ -1664,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
@@ -1915,5 +1917,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
