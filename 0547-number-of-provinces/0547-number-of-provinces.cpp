@@ -9,6 +9,22 @@ public:
             }
         }
     }
+    void bfs(unordered_map<int, list<int>>& adj,int& v,vector<bool>& isVisited){
+        queue<int> q;
+        q.push(v);
+        isVisited[v] = true;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+
+            for(auto u: adj[node]){
+                if(!isVisited[u]){
+                    isVisited[u] = true;
+                    q.push(u);
+                }
+            }
+        }
+    }
     int findCircleNum(vector<vector<int>>& isConnected) {
         unordered_map<int, list<int>> adj;
         int n = isConnected.size();
@@ -25,7 +41,7 @@ public:
         int ans = 0;
         for (int i = 0; i < n; i++) {
             if (!isVisited[i]) {
-                dfs(adj, i, isVisited);
+                bfs(adj, i, isVisited);
                 ans++;
             }
         }
