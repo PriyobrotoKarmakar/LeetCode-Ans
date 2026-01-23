@@ -19,11 +19,19 @@ public:
 
         return dp[i] = false;
     }
-
+    bool solveUsingGreedy(vector<int>& nums){
+        int maxJump = 0;
+        for(int i = 0;i<nums.size();i++){
+            if(i>maxJump)return false;
+            maxJump = max(maxJump,i+nums[i]);
+        }
+        return true;
+    }
     bool canJump(vector<int>& nums) {
         int n = nums.size();
         vector<int> dp(n + 1, -1);
-        bool ans = solve(nums, 0, dp);
+        // bool ans = solve(nums, 0, dp);
+        bool ans = solveUsingGreedy(nums);
         return ans;
     }
 };
