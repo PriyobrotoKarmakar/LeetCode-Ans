@@ -1912,4 +1912,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0341-flatten-nested-list-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
