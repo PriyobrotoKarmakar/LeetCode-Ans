@@ -1,17 +1,19 @@
 class Solution {
 public:
-    double MOD = 1e9 + 7;
-    double myPow(double a, long long b) {
-        int n = b;
-        b = (b < 0) ? b * -1LL : b;
+    double myPow(double x, int n) {
+        long long N = n;
+        if (N < 0)
+            N = -N;
+
         double ans = 1.0;
-        while (b != 0) {
-            if (b % 2 == 1) {
-                ans = (ans * a);
-                b--;
+
+        while (N > 0) {
+            if (N % 2 == 1) {
+                ans *= x;
+                N--;
             } else {
-                a = (a * a);
-                b = b / 2;
+                x *= x;
+                N /= 2;
             }
         }
 
