@@ -4,8 +4,10 @@ public:
     vector<vector<long long>> dp;
     long long int solveUsingRec(int n, int k, int target) {
         // base
-        if(n==0 && target==0)return 1;
-        if(n==0 || target<0)return 0;
+        if (n == 0 && target == 0)
+            return 1;
+        if (n == 0 || target < 0)
+            return 0;
         // solve
         long long int& dpAns = dp[n][target];
         if (dpAns != -1)
@@ -16,9 +18,25 @@ public:
         }
         return dpAns = ways;
     }
+    long long int solveUsingTab(int n,int k,int target){
+        dp.resize(n+1,vector<long long int>(target+1,0));
+        dp[0][0] = 1;
+        for(int i = 1;i<=n;i++){
+            for(int t = 0;t<=target;t++){
+                long long int& dpAns = dp[i][t];
+                long long int ways = 0;
+                for (int face = 1; face <= k; face++){
+                    if(face<=t)
+                        ways = (ways + dp[i - 1][t - face]) % MOD;
+                }
+                dpAns = ways;
+            }
+        }
+        return dp[n][target];
+    }
     int numRollsToTarget(int n, int k, int target) {
-        dp.resize(n + 1, vector<long long int>(target + 1, -1));
-        int ans = solveUsingRec(n, k, target) % MOD;
+        // dp.resize(n + 1, vector<long long int>(target + 1, -1));
+        int ans = solveUsingTab(n, k, target) % MOD;
         return ans;
     }
 };
