@@ -31,15 +31,35 @@ public:
 
         return dpAns = max(include, exclude);
     }
-    // int solveUsing
+    int solveUsingTab(vector<int>& nums,int n){
+        dp.resize(n+1,vector<int>(n+2,0));
+
+        
+
+        for(int index = n-1;index>=0;index--){
+            for(int prevIndex = index ;prevIndex>=-1;prevIndex--){
+                int include = 0;
+                int curr = nums[index];
+                if (prevIndex == -1 || curr > nums[prevIndex]) {
+                    include = 1 + dp[index + 1][index+1];
+                }
+                int exclude = dp[index + 1][prevIndex+1];
+
+                dp[index][prevIndex+1] = max(include, exclude);
+            }
+        }
+
+        return dp[0][0];
+
+    }
 
     int lengthOfLIS(vector<int>& nums) {
         int index = 0;
         int n = nums.size();
         int prevIndex = -1;
-        dp.resize(n,vector<int>(n+1,-1));
-        int ans = solveUsingMemo(nums, index, prevIndex);
-
+        // dp.resize(n,vector<int>(n+1,-1));
+        // int ans = solveUsingMemo(nums, index, prevIndex);
+        int ans = solveUsingTab(nums,n);
         return ans;
     }
 };
