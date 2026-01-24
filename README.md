@@ -894,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1121-partition-array-for-maximum-sum) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1170-shortest-common-supersequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1262-greatest-sum-divisible-by-three) |
