@@ -1,23 +1,45 @@
 class Solution {
 public:
-    int solve(vector<int>& nums,int lastIdx,int i,vector<vector<int>>&dp){
-            if(i>=nums.size())return 0;
-            int include = 0;
+    vector<vector<int>> dp;
+    int solveUsingRec(vector<int>& nums, int index, int prevIndex) {
+        // base
+        if (index >= nums.size())
+            return 0;
+        // logic
+        int include = 0;
+        int curr = nums[index];
+        if (prevIndex == -1 || curr > nums[prevIndex]) {
+            include = 1 + solveUsingRec(nums, index + 1, index);
+        }
+        int exclude = solveUsingRec(nums, index + 1, prevIndex);
 
-            if(dp[lastIdx+1][i]!=-1)return dp[lastIdx+1][i];
-
-
-            if(lastIdx == -1 || nums[lastIdx]<nums[i]){
-                 include = 1 + solve(nums,i,i+1,dp);
-            }
-            int exclude = 0 + solve(nums,lastIdx,i+1,dp);
-
-            dp[lastIdx+1][i] = max(include,exclude);
-            return dp[lastIdx+1][i];
+        return max(include, exclude);
     }
+    int solveUsingMemo(vector<int>& nums, int index, int prevIndex) {
+        // base
+        if (index >= nums.size())
+            return 0;
+        // logic
+        int& dpAns = dp[index][prevIndex+1];
+        if(dpAns!=-1)return dpAns;
+        int include = 0;
+        int curr = nums[index];
+        if (prevIndex == -1 || curr > nums[prevIndex]) {
+            include = 1 + solveUsingMemo(nums, index + 1, index);
+        }
+        int exclude = solveUsingMemo(nums, index + 1, prevIndex);
+
+        return dpAns = max(include, exclude);
+    }
+    // int solveUsing
+
     int lengthOfLIS(vector<int>& nums) {
+        int index = 0;
         int n = nums.size();
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        return solve(nums,-1,0,dp);
+        int prevIndex = -1;
+        dp.resize(n,vector<int>(n+1,-1));
+        int ans = solveUsingMemo(nums, index, prevIndex);
+
+        return ans;
     }
 };
