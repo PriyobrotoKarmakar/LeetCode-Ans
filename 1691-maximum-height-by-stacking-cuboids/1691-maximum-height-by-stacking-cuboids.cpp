@@ -11,7 +11,7 @@ public:
             return 0;
 
         // memo
-        int& ans = dp[curr][prev+1];
+        int& ans = dp[curr][prev + 1];
         if (ans != -1)
             return ans;
 
@@ -23,16 +23,34 @@ public:
         int exclude = solveUsingRec(cuboids, curr + 1, prev);
         return ans = max(include, exclude);
     }
+    int solveUsingTab(vector<vector<int>>& cuboids, int n) {
+        dp.resize(n + 1, vector<int>(n + 1, 0));
+
+        for (int curr = n - 1; curr >= 0; curr--) {
+            for (int prev = curr - 1; prev >= -1; prev--) {
+
+                int include = 0;
+                if (prev == -1 || isSafe(cuboids[prev], cuboids[curr])) {
+                    include = cuboids[curr][2] + dp[curr + 1][curr + 1];
+                }
+
+                int exclude = dp[curr + 1][prev + 1];
+
+                dp[curr][prev + 1] = max(include, exclude);
+            }
+        }
+        return dp[0][0];
+    }
     int maxHeight(vector<vector<int>>& cuboids) {
         for (vector<int>& cuboid : cuboids) {
             sort(cuboid.begin(), cuboid.end());
         }
         sort(cuboids.rbegin(), cuboids.rend());
         int n = cuboids.size();
-        dp.resize(n + 1, vector<int>(n + 1, -1));
+        // dp.resize(n + 1, vector<int>(n + 1, -1));
         int curr = 0;
         int prev = -1;
-        int ans = solveUsingRec(cuboids, curr, prev);
+        int ans = solveUsingTab(cuboids, n);
         return ans;
     }
 };
