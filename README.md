@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1121-partition-array-for-maximum-sum) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-largest-perimeter-triangle) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1304-longest-happy-string) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1121-partition-array-for-maximum-sum) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1170-shortest-common-supersequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1250-longest-common-subsequence) |
@@ -1362,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1197-parsing-a-boolean-expression](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1511,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0901-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1002-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1019-next-greater-node-in-linked-list) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
