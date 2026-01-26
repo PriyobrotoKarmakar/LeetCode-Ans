@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0415-add-strings) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0474-ones-and-zeroes) |
@@ -1886,6 +1888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
