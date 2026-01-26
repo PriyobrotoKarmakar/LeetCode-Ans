@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1905-count-sub-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1905-count-sub-islands) |
 | [1917-maximum-average-pass-ratio](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1940-maximum-xor-for-each-query) |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1905-count-sub-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1971-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1692,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1905-count-sub-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1971-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1738,6 +1741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
+| [1905-count-sub-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1905-count-sub-islands) |
 | [1972-rotating-the-box](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1972-rotating-the-box) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2089-maximum-matrix-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2089-maximum-matrix-sum) |
@@ -1940,5 +1944,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
+| [1905-count-sub-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
