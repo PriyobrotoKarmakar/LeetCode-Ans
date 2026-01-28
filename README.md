@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2390-removing-stars-from-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2429-design-a-food-rating-system) |
@@ -1386,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2390-removing-stars-from-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2390-removing-stars-from-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2487-remove-nodes-from-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1501,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2390-removing-stars-from-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2551-apply-operations-to-an-array) |
