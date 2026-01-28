@@ -983,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2050-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2487-remove-nodes-from-linked-list) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Memoization
@@ -1323,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0860-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2487-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
@@ -1382,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2487-remove-nodes-from-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1525,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2487-remove-nodes-from-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
