@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0831-largest-sum-of-averages) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1552,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0778-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1304-longest-happy-string) |
@@ -1700,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -1829,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1955,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1971-find-if-path-exists-in-graph) |
