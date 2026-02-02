@@ -1,50 +1,53 @@
+#include <vector>
+#include <numeric>
+
+using namespace std;
+
+class DSU {
+public:
+    vector<int> leader;
+    
+    DSU(int n) {
+        leader.resize(n);
+        iota(leader.begin(), leader.end(), 0);
+    }
+    
+    int find(int i) {
+        if(leader[i] == i) return i;
+        return leader[i] = find(leader[i]); 
+    }
+
+    void unite(int i, int j) {
+        int leader1 = find(i);
+        int leader2 = find(j);
+
+        if(leader1 != leader2) {
+            leader[leader1] = leader2;
+        }
+    }
+};
+
 class Solution {
 public:
-    void dfs(unordered_map<int, list<int>>& adj,int& v,vector<bool>& isVisited){
-        isVisited[v] = true;
-
-        for(auto u: adj[v]){
-            if(!isVisited[u]){
-                dfs(adj,u,isVisited);
-            }
-        }
-    }
-    void bfs(unordered_map<int, list<int>>& adj,int& v,vector<bool>& isVisited){
-        queue<int> q;
-        q.push(v);
-        isVisited[v] = true;
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-
-            for(auto u: adj[node]){
-                if(!isVisited[u]){
-                    isVisited[u] = true;
-                    q.push(u);
-                }
-            }
-        }
-    }
     int findCircleNum(vector<vector<int>>& isConnected) {
-        unordered_map<int, list<int>> adj;
         int n = isConnected.size();
-        for (int u = 0; u < n; u++) {
-            for (int v = 0; v < isConnected[u].size(); v++) {
-                if (isConnected[u][v] == 1 && u!=v) {
-                    adj[u].push_back(v);
-                    adj[v].push_back(u);
+        DSU dsu(n); 
+
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < n; j++) {
+                if(isConnected[i][j] == 1) {
+                    dsu.unite(i, j);
                 }
             }
         }
 
-        vector<bool> isVisited(n, false);
-        int ans = 0;
-        for (int i = 0; i < n; i++) {
-            if (!isVisited[i]) {
-                bfs(adj, i, isVisited);
-                ans++;
+        int provinces = 0;
+        for(int i = 0; i < n; i++) {
+            if(dsu.leader[i] == i) {
+                provinces++;
             }
         }
-        return ans;
+        
+        return provinces;
     }
 };
