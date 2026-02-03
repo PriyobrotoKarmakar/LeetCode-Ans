@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0837-most-common-word) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0837-most-common-word) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0731-my-calendar-ii) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1050,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
@@ -1707,6 +1712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
@@ -1973,6 +1979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0721-accounts-merge) |
 | [1905-count-sub-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
