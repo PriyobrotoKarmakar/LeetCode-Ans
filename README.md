@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0797-rabbits-in-forest) |
+| [0827-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0831-largest-sum-of-averages) |
 | [0837-most-common-word](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0837-most-common-word) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1008-binary-tree-cameras) |
@@ -1717,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1036-rotting-oranges) |
@@ -1766,6 +1769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0794-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0854-making-a-large-island) |
 | [0867-transpose-matrix](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0867-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1036-rotting-oranges) |
@@ -1981,6 +1985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0827-making-a-large-island) |
 | [1905-count-sub-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
