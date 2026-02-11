@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3721-longest-balanced-subarray-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -1278,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -1338,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3647-zero-array-transformation-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Linked List
 |  |
