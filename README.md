@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1711,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3713-longest-balanced-substring-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3765-complete-prime-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3765-complete-prime-number) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3843-partition-array-into-two-equal-product-subsets) |
