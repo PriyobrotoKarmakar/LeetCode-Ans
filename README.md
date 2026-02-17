@@ -1634,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0212-word-search-ii) |
+| [0401-binary-watch](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0679-24-game) |
@@ -1662,6 +1663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0473-matchsticks-to-square) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1018-binary-prefix-divisible-by-5) |
