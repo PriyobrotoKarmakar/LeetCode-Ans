@@ -1,30 +1,35 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& ast) {
+    vector<int> asteroidCollision(vector<int>& asteroids) {
         stack<int> st;
-        for (int i = 0; i < ast.size(); ++i) {
-            int curr = ast[i];
+        for(auto curr: asteroids){
             bool alive = true;
-            while (alive && curr < 0 && !st.empty() && st.top() > 0) {
-                if (abs(st.top()) < abs(curr)) {
+
+            while(alive && curr<0 && !st.empty() && st.top()>0){
+                //upcoming astroid is larger
+                int prev = st.top();
+              
+
+                if(prev<abs(curr)){
                     st.pop();
-                } else if (abs(st.top()) == abs(curr)) {
+                }else if(prev==abs(curr)){
                     st.pop();
                     alive = false;
-                } else {
+                }else{
                     alive = false;
                 }
             }
-            if (alive) {
+
+            if(alive){
                 st.push(curr);
             }
         }
+
         vector<int> ans;
-        while (!st.empty()) {
-            ans.push_back(st.top());
-            st.pop();
+        while(!st.empty()){
+            ans.push_back(st.top()); st.pop();
         }
-        reverse(ans.begin(), ans.end());
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
