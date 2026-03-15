@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3713-longest-balanced-substring-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3721-longest-balanced-subarray-ii) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/3721-longest-balanced-subarray-ii) |
