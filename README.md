@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2465-shifting-letters-ii) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2479-meeting-rooms-iii) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2448-count-number-of-bad-pairs) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2579-count-total-number-of-colored-cells](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2579-count-total-number-of-colored-cells) |
 | [2605-count-anagrams](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2605-count-anagrams) |
 | [2610-closest-prime-numbers-in-range](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1848,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
