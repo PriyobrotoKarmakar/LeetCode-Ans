@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1905-count-sub-islands) |
 | [1917-maximum-average-pass-ratio](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1923-sentence-similarity-iii) |
+| [1929-concatenation-of-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1972-rotating-the-box) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -1543,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PriyobrotoKarmakar/LeetCode-Ans/tree/master/2137-final-value-of-variable-after-performing-operations) |
